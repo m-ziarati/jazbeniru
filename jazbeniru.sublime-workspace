@@ -1,0 +1,1465 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"en",
+				"entry"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"Re",
+				"Redirect"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"login",
+				"loginUsingId"
+			],
+			[
+				"hea",
+				"headers"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"current",
+				"currentPage"
+			],
+			[
+				"cle",
+				"empty-cells"
+			],
+			[
+				"ce",
+				"border-collapse"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"time",
+				"date_timezone_get"
+			],
+			[
+				"brder",
+				"border-radius"
+			],
+			[
+				"pau",
+				"paused"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"le",
+				"lesson"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"border-bot",
+				"border-bottom"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"border-top",
+				"border-top-width"
+			],
+			[
+				"border-top-",
+				"border-top-right-radius"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"fn",
+				"font-size"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"da",
+				"dashboard"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"te",
+				"table-cell"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"form",
+				"number_format"
+			],
+			[
+				"serach",
+				"searchBox"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"h2",
+				"h2	Tag"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"me",
+				"menus"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"borer",
+				"border-bottom-right-radius"
+			],
+			[
+				"in",
+				"invoice"
+			],
+			[
+				"Le",
+				"lesson"
+			],
+			[
+				"rou",
+				"route"
+			],
+			[
+				"menu",
+				"div.menu"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"Sha",
+				"DateShamsi"
+			],
+			[
+				"Su",
+				"SubmissionId"
+			],
+			[
+				"ar",
+				"articles"
+			],
+			[
+				"border-b",
+				"border-box"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"sty",
+				"style	Attr"
+			],
+			[
+				"fiel",
+				"fields"
+			],
+			[
+				"tra",
+				"TransactionGroup"
+			],
+			[
+				"clo",
+				"closest"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"import",
+				"importBAFile"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"ran",
+				"randomNumber"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"ht",
+				"html	html"
+			],
+			[
+				"srtto",
+				"strtolower"
+			],
+			[
+				"i",
+				"inputf	input - file"
+			],
+			[
+				"h3",
+				"h3	Tag"
+			],
+			[
+				"upda",
+				"updateForm3"
+			],
+			[
+				"re",
+				"records"
+			],
+			[
+				"span",
+				"span	<span>"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"va",
+				"value	Attr"
+			],
+			[
+				"reco",
+				"record"
+			],
+			[
+				"col",
+				"colspan	Attr"
+			],
+			[
+				"sub",
+				"subextra"
+			],
+			[
+				"sele",
+				"selectionPanel"
+			],
+			[
+				"check",
+				"check-single"
+			],
+			[
+				"pro",
+				"province"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"sal",
+				"saleReferenceId"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"cre",
+				"createRequestHeaders"
+			],
+			[
+				"cu",
+				"curl"
+			],
+			[
+				"ti",
+				"this"
+			],
+			[
+				"comem",
+				"comments"
+			],
+			[
+				"comm",
+				"comments"
+			],
+			[
+				"inputt",
+				"inputt	input - text"
+			],
+			[
+				"has",
+				"hasChild"
+			],
+			[
+				"tr",
+				"transaction"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"fore",
+				"foreach	blade-foreach"
+			],
+			[
+				"border-bottom-",
+				"border-bottom-width"
+			],
+			[
+				"heade",
+				"headerAnimated"
+			],
+			[
+				"sec",
+				"section	<section>"
+			],
+			[
+				"arti",
+				"articles"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"ad",
+				"div.ad"
+			],
+			[
+				"details",
+				"div.details"
+			],
+			[
+				"trans",
+				"text-transform"
+			],
+			[
+				"Doctor",
+				"DoctorTag"
+			],
+			[
+				"tags",
+				"Tags"
+			],
+			[
+				"rt",
+				"rtl"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"doct",
+				"doctor"
+			],
+			[
+				"doc",
+				"doctor"
+			],
+			[
+				"na",
+				"name	Attr"
+			],
+			[
+				"div",
+				"div	Tag"
+			],
+			[
+				"outli",
+				"outline"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"firm",
+				"firmId"
+			],
+			[
+				"ord",
+				"orderId"
+			],
+			[
+				"pur",
+				"purchse"
+			],
+			[
+				"pui",
+				"picture	<picture>"
+			],
+			[
+				"para",
+				"params"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/crawlers/Crawler7010.php",
+			"settings":
+			{
+				"buffer_size": 1946,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/home/AppData/Local/Temp/Rar$DIa0.641/payment.php",
+			"settings":
+			{
+				"buffer_size": 1380,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/routes.php",
+			"settings":
+			{
+				"buffer_size": 5511,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/crawlers/CrawlerE.php",
+			"settings":
+			{
+				"buffer_size": 1551,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/composer/autoload_classmap.php",
+			"settings":
+			{
+				"buffer_size": 5435,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/httpd/htdocs/payment/src/Payment/Gateway/Mellat/Mellat.php",
+			"settings":
+			{
+				"buffer_size": 5269,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/crawlers/Crawler.php",
+			"settings":
+			{
+				"buffer_size": 1557,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/crawlers/CrawlerEs.php",
+			"settings":
+			{
+				"buffer_size": 1225,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/crawlers/CrawlerS.php",
+			"settings":
+			{
+				"buffer_size": 1781,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "$payment = new Payment;\n$payment->amount = 10000;\n$payment->save();\n\n$gateway = Payment\\Payment::create('Mellat', [\n	'terminalId'   => 802802,\n	'userName'     => 'rahahost',\n	'userPassword' => 'ra94ha',\n	'callbackUrl'  => 'http://domain/callback',\n]);\n\n$purchase = $gateway->purchase($payment->amount, $payment->id);\n\nif ($purchase->send())\n{\n	$token = $purchase->getToken();\n	$payment->token = $token;\n	$payment->save();\n\n	$purchase->redirect();\n}\nelse\n{\n	$payment->requestResult = $purchase->getError()['code'];\n	$payment->save();\n}",
+			"settings":
+			{
+				"buffer_size": 534,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "CREATE TABLE `payment` (\n  `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,\n  `gatewayId` int(11) DEFAULT NULL,\n  `amount` int(11) DEFAULT NULL,\n  `token` varchar(50) COLLATE utf8_persian_ci DEFAULT NULL,\n  `date` datetime DEFAULT NULL,\n  `requestResult` varchar(45) COLLATE utf8_persian_ci DEFAULT NULL,\n  `paymentResult` varchar(45) COLLATE utf8_persian_ci DEFAULT NULL,\n  `verificationResult` varchar(45) COLLATE utf8_persian_ci DEFAULT NULL,\n  `status` tinyint(4) DEFAULT '0',\n  `created_at` timestamp NULL DEFAULT NULL,\n  `updated_at` timestamp NULL DEFAULT NULL,\n  PRIMARY KEY (`id`),\n) ENGINE=InnoDB AUTO_INCREMENT=154 DEFAULT CHARSET=utf8 COLLATE=utf8_persian_ci;\n",
+			"settings":
+			{
+				"buffer_size": 673,
+				"line_ending": "Unix",
+				"name": "CREATE TABLE `payment` ("
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"time",
+			"echo",
+			"dir",
+			"cmd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/httpd/htdocs/jazbeniru",
+		"/D/httpd/htdocs/jazbeniru/app",
+		"/D/httpd/htdocs/jazbeniru/app/controllers",
+		"/D/httpd/htdocs/jazbeniru/app/crawlers",
+		"/D/httpd/htdocs/jazbeniru/old",
+		"/D/httpd/htdocs/jazbeniru/old/Crawl",
+		"/D/httpd/htdocs/jazbeniru/old/Crawl/1- Hamshahri - استخدام - New",
+		"/D/httpd/htdocs/jazbeniru/vendor",
+		"/D/httpd/htdocs/jazbeniru/vendor/composer"
+	],
+	"file_history":
+	[
+		"/C/Users/home/AppData/Local/Temp/Rar$DIa0.916/index.php",
+		"/C/Users/home/AppData/Local/Temp/Rar$DIa0.027/Irankish.php",
+		"/C/Users/home/AppData/Local/Temp/Rar$DIa0.060/class.phpmailer.php",
+		"/D/httpd/htdocs/laravel5.2/config/app.php",
+		"/D/httpd/htdocs/laravel5.2/config/services.php",
+		"/D/httpd/htdocs/jazbeniru/app/crawlers/CrawlerS.php",
+		"/D/httpd/htdocs/jazbeniru/app/crawlers/CrawlerI.php",
+		"/D/httpd/htdocs/jazbeniru/app/crawlers/CrawlerHam1.php",
+		"/D/httpd/htdocs/jazbeniru/composer.json",
+		"/C/Users/home/Desktop/mah2.html",
+		"/D/httpd/htdocs/bso/app/config/database.php",
+		"/D/httpd/htdocs/bso/travel.sql",
+		"/D/httpd/htdocs/bso/app/routes.php",
+		"/I/bso/travel.sql",
+		"/I/bso/app/config/database.php",
+		"/I/shahid/composer.json",
+		"/D/httpd/htdocs/bso/composer.json",
+		"/D/httpd/htdocs/jazbeniru/vendor/composer/autoload_classmap.php",
+		"/D/httpd/htdocs/jazbeniru/app/crawlers/Crawler.php",
+		"/D/httpd/htdocs/tutorial/app/views/index.blade.php",
+		"/D/httpd/htdocs/jazbeniru/app/models/A.php",
+		"/D/httpd/htdocs/jazbeniru/app/models/User.php",
+		"/D/httpd/htdocs/jazbeniru/app/controllers/SeekerController.php",
+		"/D/httpd/htdocs/jazbeniru/app/views/seeker/reset.blade.php",
+		"/D/httpd/htdocs/jazbeniru/app/routes.php",
+		"/D/httpd/htdocs/jazbeniru/app/views/seeker/login.blade.php",
+		"/D/httpd/htdocs/accounting/app/models/SubmissionValue.php",
+		"/D/httpd/htdocs/accounting/app/models/Submission.php",
+		"/D/httpd/htdocs/jazbeniru/app/views/layouts/master.blade.php",
+		"/D/httpd/htdocs/jazbeniru/app/views/seeker/forget.blade.php",
+		"/D/httpd/htdocs/jazbeniru/app/views/seeker/reseted.blade.php",
+		"/D/httpd/htdocs/jazbeniru/app/views/seeker/step1.blade.php",
+		"/D/httpd/htdocs/jazbeniru/app/views/seeker/step2.blade.php",
+		"/D/httpd/htdocs/jazbeniru/app/views/errors/404.blade.php",
+		"/D/httpd/htdocs/Crawl/4- 1820 اصفهان/1820-esfahan.js",
+		"/D/httpd/htdocs/Crawl/11- e-estekhdam استخدام-های-سراسری/sarasari.js",
+		"/D/httpd/htdocs/Crawl/e-estekhdam/e-estekhdam.js",
+		"/D/httpd/htdocs/lawyer/app/views/exports/PGG1.blade.php",
+		"/D/httpd/htdocs/lawyer/app/views/exports/PGG2.blade.php",
+		"/D/httpd/htdocs/jazbeniru/app/config/app.php",
+		"/D/httpd/htdocs/Crawl/4- 1820 اصفهان/1820 اصفهان.bat",
+		"/D/httpd/htdocs/tutorial/app/controllers/AccountController.php",
+		"/D/httpd/htdocs/jazbeniru/old/Crawl/iranestekhdam/iranestekhdam.js",
+		"/D/httpd/htdocs/jazbeniru/app/crawlers/CrawlerE.php",
+		"/D/httpd/htdocs/jazbeniru/old/Crawl/6- Shahrvand811/shahrvand.js",
+		"/D/httpd/htdocs/jazbeniru/old/Crawl/e-estekhdam/e-estekhdam.js",
+		"/D/httpd/htdocs/jazbeniru/vendor/composer/autoload_files.php",
+		"/D/slimerjs/slimerjs-0.9.6/test.js",
+		"/D/slimerjs-0.9.6/test.js",
+		"/C/Users/home/AppData/Local/Temp/Rar$DRa0.684/slimerjs-0.9.6/slimerjs.bat",
+		"/D/httpd/htdocs/jazbeniru/old/Crawl/1- Hamshahri - استخدام - New/hamshahri.js",
+		"/D/casperjs/projects/test/ansar.js",
+		"/I/.fseventsd/fseventsd-uuid",
+		"/D/httpd/htdocs/bso0/bso.sql",
+		"/D/httpd/htdocs/tutorial/app/views/account/login.blade.php",
+		"/C/Users/home/AppData/Local/Temp/Rar$DIa0.603/phpQueryObject.php",
+		"/C/Users/home/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/home/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/home/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/home/AppData/Local/Temp/Rar$DIa0.936/GetSmsPrice.php",
+		"/D/httpd/htdocs/jazbeniru/app/storage/sessions/c38173706945f79fe675c131a9bd4bdcd5718d00",
+		"/D/httpd/htdocs/tutorial/public/css/master1.css",
+		"/D/httpd/htdocs/tutorial/public/css/fonts.css",
+		"/D/httpd/htdocs/jazbeniru/app/config/packages/mews/captcha/config.php",
+		"/D/httpd/htdocs/accounting/app/config/database.php",
+		"/D/httpd/htdocs/tutorial/app/models/Payment.php",
+		"/D/httpd/htdocs/tutorial/composer.lock",
+		"/D/httpd/htdocs/tutorial/app/models/Chapter.php",
+		"/D/httpd/htdocs/tutorial/app/views/course-index.blade.php",
+		"/D/httpd/htdocs/tutorial/app/models/Lesson.php",
+		"/D/httpd/htdocs/tutorial/app/views/suggestion-articles.blade.php",
+		"/D/httpd/htdocs/tutorial/app/views/suggestion-courses.blade.php",
+		"/D/httpd/htdocs/tutorial/public/.htaccess",
+		"/D/httpd/htdocs/tutorial/app/views/lesson.blade.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/httpd/htdocs/tutorial/app/config/packages/mitch/hashids/config.php",
+		"/D/httpd/htdocs/tutorial/app/views/account/receipt.blade.php",
+		"/D/httpd/htdocs/tutorial/app/views/account/dashboard.blade.php",
+		"/D/httpd/htdocs/tutorial/app/views/account/account.blade.php",
+		"/D/httpd/htdocs/tutorial/app/routes.php",
+		"/D/httpd/htdocs/tutorial/app/views/cookies.blade.php",
+		"/D/httpd/htdocs/tutorial/app/controllers/PurchaseController.php",
+		"/D/httpd/htdocs/tutorial/app/controllers/PageController.php",
+		"/D/httpd/htdocs/tutorial/app/views/account/mail.blade.php",
+		"/D/httpd/htdocs/tutorial/app/views/comment.blade.php",
+		"/D/httpd/htdocs/tutorial/public/css/flaticon.html",
+		"/D/httpd/htdocs/tutorial/app/views/account/signup.blade.php",
+		"/D/httpd/htdocs/tutorial/app/models/Reminder.php",
+		"/D/httpd/htdocs/tutorial/app/views/course-list.blade.php",
+		"/D/httpd/htdocs/tutorial/app/views/courses.blade.php",
+		"/D/httpd/htdocs/tutorial/app/lang/fa/validation.php",
+		"/D/httpd/htdocs/lawyer/app/views/exports/doctor3.blade.php",
+		"/D/httpd/htdocs/jazbeniru/app/config/mail.php",
+		"/D/httpd/htdocs/jazbeniru/app/config/services.php",
+		"/D/httpd/htdocs/tutorial/app/views/index1.blade.php",
+		"/D/httpd/htdocs/tutorial/app/views/account/reset.blade.php",
+		"/D/httpd/htdocs/tutorial/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php",
+		"/D/httpd/htdocs/tutorial/app/views/account/history.blade.php",
+		"/D/httpd/htdocs/lawyer/app/controllers/PGController.php",
+		"/D/httpd/htdocs/tutorial/app/views/account/profile.blade.php",
+		"/D/httpd/htdocs/lawyer/app/views/exports/doctor4.blade.php",
+		"/D/httpd/htdocs/lawyer/app/views/doctor/list.blade.php",
+		"/D/httpd/htdocs/lawyer/app/controllers/DoctorController.php",
+		"/D/httpd/htdocs/lawyer/app/routes.php",
+		"/D/httpd/htdocs/jazbeniru/app/models/Payment.php",
+		"/D/httpd/htdocs/jazbeniru/app/config/database.php",
+		"/D/httpd/htdocs/tutorial/app/views/css.blade.php",
+		"/D/httpd/htdocs/tutorial/.gitignore",
+		"/D/httpd/htdocs/tutorial/app/views/layouts/master.blade.php",
+		"/D/httpd/htdocs/tutorial/app/views/layouts/master3.blade.php",
+		"/D/httpd/htdocs/tutorial/app/views/course1.blade.php",
+		"/D/httpd/htdocs/tutorial/app/views/course.blade.php",
+		"/D/httpd/htdocs/tutorial/app/views/lesson1.blade.php",
+		"/D/httpd/htdocs/tutorial/app/views/purchase.blade.php",
+		"/D/httpd/htdocs/tutorial/app/models/User.php",
+		"/D/httpd/htdocs/tutorial/public/css/framework.css",
+		"/D/httpd/php5.6/php.ini",
+		"/D/httpd/htdocs/accounting/app/routes.php",
+		"/C/Users/home/AppData/Local/Temp/Rar$DRa0.709/jQuery-File-Upload-9.11.2/server/php/index.php",
+		"/C/Users/home/AppData/Local/Temp/Rar$DRa0.709/jQuery-File-Upload-9.11.2/server/php/UploadHandler.php",
+		"/D/httpd/htdocs/tutorial/app/config/app.php",
+		"/C/Users/home/Desktop/mahyar.svg",
+		"/C/Users/home/Desktop/mahyar.html",
+		"/C/Users/home/Desktop/ali.svg",
+		"/C/Users/home/Desktop/m.html",
+		"/D/httpd/htdocs/tutorial/htaccess/.htaccess",
+		"/D/httpd/conf/httpd.conf",
+		"/D/httpd/htdocs/tutorial/app/models/Course.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".{1}",
+			"(.){1}",
+			"(.)",
+			"' =",
+			"=>",
+			" ",
+			"=",
+			"]",
+			"[",
+			";",
+			"$links[]",
+			"null",
+			"$e2",
+			"elem",
+			"date",
+			"$e",
+			"listElems",
+			"elem",
+			"elems",
+			"$content",
+			"7010",
+			"link",
+			"links",
+			"$e",
+			"tds",
+			"link",
+			"links",
+			"\\n\\r",
+			"#profile",
+			"content",
+			"email",
+			"mobile",
+			"name",
+			"font-weight:",
+			"font-weight:50",
+			"{f",
+			";",
+			"btn",
+			"travel_use",
+			"travel",
+			"fs",
+			"    ",
+			"   ",
+			"    ",
+			"sd",
+			"=>",
+			":",
+			"rS",
+			"spans",
+			"result",
+			"$link",
+			"$links",
+			":",
+			"array(",
+			"lastPage",
+			"firstPage",
+			"URL",
+			"'",
+			"title",
+			"				\n",
+			"titleElement",
+			"/",
+			"'",
+			"\"",
+			"$i",
+			"i",
+			"fonts/fonts",
+			"WebFonts",
+			"WebFonts/fonts/IRANSansWeb(FaNum)_Medium.eot",
+			"\\.\\.[^.]*.[^']*",
+			"	u",
+			":u",
+			"nationalCode",
+			"	\n",
+			"gender",
+			"['redirect' => Input::get('redirect')]",
+			"email",
+			"city",
+			"999",
+			"300",
+			"ext",
+			"step1",
+			"Id",
+			"value",
+			"register",
+			"signup",
+			"TYPE_Advertiser",
+			"$subextra",
+			"'require",
+			"require",
+			"password_repeat",
+			", 'disabled' => 'disabled'",
+			"captcha",
+			"password_repeat",
+			"password",
+			"nationalCode",
+			"mobile",
+			"gender",
+			"family",
+			"name",
+			"ID",
+			"aaa",
+			"*",
+			"h1",
+			"bookmarks",
+			"16565656",
+			"state",
+			"STATE",
+			"C",
+			" .chapter-title",
+			"l'",
+			"l",
+			"(\\d{1,3}\\.){3}\\d{1,3}",
+			"#lesson-view > .page-content .course .player",
+			".banner",
+			"#course-page",
+			".content",
+			".bar",
+			".banner",
+			"#course-page",
+			"#page",
+			".btn-group .btn + .btn, .btn-group .btn + .btn-group, .btn-group .btn-group + .btn, .btn-group .btn-group + .btn-group {\n	margin-left: -1px;\n}",
+			".btn-group .btn + .btn, .btn-group .btn + .btn-group, .btn-group .btn-group + .btn, .btn-group .btn-group + .btn-group {\n    margin-left: -1px;\n}",
+			".course",
+			"Yekan",
+			"rate-limit",
+			"e2e8e9",
+			"Content-Disposition"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"jjjj_",
+			"\\t",
+			"<br/>",
+			"\\t",
+			"\\n",
+			"\\t",
+			"#\\t",
+			"\\t",
+			"",
+			"/",
+			"",
+			"//[^<]+",
+			"'$1' => 'required|max:',",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/crawlers/Crawler7010.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1946,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1593,
+								1612
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1650.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/home/AppData/Local/Temp/Rar$DIa0.641/payment.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4238,
+								4240
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3876.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/crawlers/CrawlerE.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1416,
+								1416
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 990.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "vendor/composer/autoload_classmap.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1296,
+								1296
+							],
+							[
+								1338,
+								1338
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/httpd/htdocs/payment/src/Payment/Gateway/Mellat/Mellat.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5003,
+								5019
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 4158.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/crawlers/Crawler.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1557,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								712,
+								712
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/crawlers/CrawlerEs.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1058,
+								1222
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1188.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/crawlers/CrawlerS.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1781,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1452.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 534,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								514,
+								514
+							]
+						],
+						"settings":
+						{
+							"default_dir": "D:\\httpd\\htdocs\\jazbeniru",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 673,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								241,
+								254
+							]
+						],
+						"settings":
+						{
+							"auto_name": "CREATE TABLE `payment` (",
+							"default_dir": "D:\\httpd\\htdocs\\jazbeniru",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 148.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 142.0
+	},
+	"pinned_build_system": "",
+	"project": "jazbeniru.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"dash",
+				"accounting\\app\\views\\dashboard.blade.php"
+			],
+			[
+				"httpd.co",
+				"D:\\httpd\\conf\\extra\\httpd-vhosts.conf"
+			],
+			[
+				"http",
+				"lawyer\\app\\phpQuery\\phpQuery\\Zend\\Uri\\Http.php"
+			],
+			[
+				"pgc",
+				"lawyer\\app\\controllers\\PGController.php"
+			],
+			[
+				"c",
+				"tutorial\\composer.json"
+			],
+			[
+				"phpuni",
+				"khayyam\\phpunit.xml"
+			],
+			[
+				"route",
+				"vendor\\symfony\\routing\\Symfony\\Component\\Routing\\Router.php"
+			],
+			[
+				"input",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Input.php"
+			],
+			[
+				"hasfile",
+				"vendor\\symfony\\http-foundation\\Symfony\\Component\\HttpFoundation\\File\\File.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\httpd\\htdocs\\tutorial\\tutorial.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
